@@ -1,0 +1,37 @@
+[
+  {
+    "fullName": "Andrei Toba",
+    "username": "andreitoba80",
+    "email": "andreitoba80@gmailcom",
+    "password": "123",
+    "isAdmin": true
+  },
+  {
+    "fullName": "Darius Cioban",
+    "username": "daryoos",
+    "email": "dariuscioban@gmailcom",
+    "password": "12345",
+    "isAdmin": false
+  },
+  {
+    "fullName": "Malina Lucacel",
+    "username": "malinaluc",
+    "email": "malinaluc@gmailcom",
+    "password": "123",
+    "isAdmin": false
+  },
+  {
+    "fullName": "Vivi Toba",
+    "username": "vivitoba",
+    "email": "vivitoba@gmailcom",
+    "password": "123",
+    "isAdmin": false
+  },
+  {
+    "fullName": "Stefan Rudareanu",
+    "username": "stefanrudareanu",
+    "email": "stefanrudareanu@gmailcom",
+    "password": "123",
+    "isAdmin": false
+  }
+]
